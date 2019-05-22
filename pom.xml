@@ -6,7 +6,7 @@
     <groupId>com.test.demo</groupId>
     <artifactId>test</artifactId>
     <version>test</version>
-
+    <packaging>war</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
